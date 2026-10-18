@@ -11,7 +11,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.metrics import f1_score,accuracy_score
 
-df=pd.read_csv(r'C:\Users\Lenovo\Desktop\mohammad\auspify\cleaning data\netflix_clean.csv')
+df=pd.read_csv('netflix_clean.csv')
 y=df['type']=='TV Show'
 features=['release_year','year_added','month_added','rating','main_country','director']
 X=df[features].copy()
@@ -66,4 +66,5 @@ sns.heatmap(cm, annot=True, fmt="d",xticklabels=['movies','Tv shows'],yticklabel
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.title('logistic regression confusion matrix')
+plt.savefig('confusion_matrix.png', dpi=150)
 plt.show()
