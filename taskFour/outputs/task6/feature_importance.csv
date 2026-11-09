@@ -1,0 +1,58 @@
+,mean,std
+rating,0.11935,0.00375
+main_country,0.04643,0.00371
+year_added,0.04262,0.00404
+duration_min,0.03498,0.00378
+month_added,0.02369,0.00233
+genre_Classic Movies,0.01055,0.00244
+is_international,0.00763,0.00168
+genre_International Movies,0.00464,0.00129
+genre_Documentaries,0.00439,0.00071
+genre_TV Dramas,0.00368,0.00106
+genre_Romantic TV Shows,0.00329,0.00041
+title_has_colon,0.00325,0.00076
+genre_Cult Movies,0.00321,0.00194
+genre_Stand-Up Comedy,0.00284,0.00106
+n_directors,0.00256,0.00108
+n_genres,0.00235,0.00101
+n_seasons,0.00232,0.00156
+genre_Music & Musicals,0.00186,0.00053
+genre_Reality TV,0.00177,0.00061
+genre_British TV Shows,0.00175,0.00056
+genre_Children & Family Movies,0.00168,0.00085
+genre_Anime Features,0.00131,0.00016
+genre_Docuseries,0.00106,0.0005
+genre_Stand-Up Comedy & Talk Shows,0.00097,0.00056
+genre_Anime Series,0.00084,0.00015
+genre_International TV Shows,0.00083,0.00019
+genre_TV Mysteries,0.00071,0.00135
+genre_Movies,0.00056,7e-05
+genre_TV Comedies,0.00053,0.0003
+genre_LGBTQ Movies,0.0005,0.00028
+genre_Sci-Fi & Fantasy,0.00041,0.00019
+genre_Sports Movies,0.0004,0.00029
+genre_Faith & Spirituality,0.00037,0.00032
+n_countries,0.00034,0.00014
+genre_Spanish-Language TV Shows,0.00031,0.00028
+genre_Crime TV Shows,0.00031,0.00027
+genre_Thrillers,0.00031,0.00017
+genre_Horror Movies,0.0003,0.00018
+genre_Science & Nature TV,0.00024,0.0001
+type,0.00023,5e-05
+genre_Korean TV Shows,0.00013,0.0002
+genre_Action & Adventure,0.00012,0.0001
+is_mature,9e-05,0.0001
+genre_Comedies,3e-05,0.00038
+has_director,0.0,0.0
+genre_TV Sci-Fi & Fantasy,0.0,0.0
+genre_TV Action & Adventure,-0.0,0.00073
+genre_Kids' TV,-5e-05,0.00028
+genre_TV Horror,-9e-05,3e-05
+genre_Independent Movies,-0.00012,0.00023
+genre_TV Thrillers,-0.00013,0.00019
+genre_Teen TV Shows,-0.00014,0.00015
+genre_Romantic Movies,-0.00016,0.00012
+is_kids,-0.00022,0.00012
+title_has_number,-0.00035,0.00049
+genre_Dramas,-0.00037,0.00084
+title_words,-0.00097,0.00108

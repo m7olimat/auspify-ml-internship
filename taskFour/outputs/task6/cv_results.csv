@@ -1,0 +1,4 @@
+,cv_accuracy,cv_f1,cv_auc,cv_auc_std
+Gradient Boosting,0.7469,0.7816,0.8084,0.0159
+Random Forest,0.7332,0.7706,0.8017,0.0112
+Logistic Regression,0.7159,0.7542,0.7673,0.012

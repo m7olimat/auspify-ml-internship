@@ -1,0 +1,7 @@
+,MAE,RMSE,MAPE_%
+Random Forest (lags),36.038,43.324,21.739
+Last-12-month average,35.097,44.11,21.164
+Ridge (lags),37.487,44.882,22.617
+Gradient Boosting (lags),41.208,48.063,25.209
+Seasonal naive,36.708,48.337,21.266
+Holt-Winters,40.699,49.991,25.608

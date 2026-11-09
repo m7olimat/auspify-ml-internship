@@ -1,0 +1,51 @@
+query_title,similarity,title,type,rating,listed_in,main_country
+Stranger Things,1.0,Chilling Adventures of Sabrina,TV Show,TV-14,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",United States
+Stranger Things,0.994,Nightflyers,TV Show,TV-MA,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",United States
+Stranger Things,0.994,Helix,TV Show,TV-MA,"TV Horror, TV Mysteries, TV Sci-Fi & Fantasy",United States
+Stranger Things,0.767,Anjaan: Special Crimes Unit,TV Show,TV-14,"International TV Shows, TV Horror, TV Mysteries",India
+Stranger Things,0.76,Typewriter,TV Show,TV-MA,"International TV Shows, TV Horror, TV Mysteries",India
+Stranger Things,0.76,The Guest,TV Show,TV-14,"International TV Shows, TV Horror, TV Mysteries",South Korea
+Stranger Things,0.757,The Originals,TV Show,TV-14,"TV Dramas, TV Horror, TV Mysteries",United States
+Stranger Things,0.754,JU-ON: Origins,TV Show,TV-MA,"International TV Shows, TV Horror, TV Mysteries",Japan
+Stranger Things,0.753,ThirTEEN Terrors,TV Show,TV-14,"International TV Shows, TV Horror, TV Mysteries",Thailand
+Stranger Things,0.751,Brand New Cherry Flavor,TV Show,TV-MA,"TV Dramas, TV Horror, TV Mysteries",United States
+The Crown,1.0,Behind Her Eyes,TV Show,TV-MA,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,1.0,Black Mirror,TV Show,TV-MA,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,1.0,Traitors,TV Show,TV-MA,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,1.0,Black Earth Rising,TV Show,TV-MA,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,1.0,Requiem,TV Show,TV-MA,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,0.988,Downton Abbey,TV Show,TV-14,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,0.988,The English Game,TV Show,TV-14,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,0.988,Dracula,TV Show,TV-14,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,0.988,Land Girls,TV Show,TV-14,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+The Crown,0.982,The A List,TV Show,TV-PG,"British TV Shows, International TV Shows, TV Dramas",United Kingdom
+Narcos,1.0,Queen of the South,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,1.0,Altered Carbon,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,1.0,Marvel's Jessica Jones,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,1.0,Marvel's Iron Fist,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,1.0,Marvel's Luke Cage,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,1.0,Marvel's The Defenders,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,0.99,Shooter,TV Show,TV-14,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,0.99,Person of Interest,TV Show,TV-14,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Narcos,0.97,Narcos: Mexico,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",Mexico
+Narcos,0.921,Gotham,TV Show,TV-MA,"Crime TV Shows, TV Action & Adventure, TV Dramas",United States
+Dangal,0.796,Patiala House,Movie,TV-PG,"Dramas, International Movies, Sports Movies",India
+Dangal,0.789,Mary Kom,Movie,TV-PG,"Dramas, International Movies, Sports Movies",India
+Dangal,0.782,Khido Khundi,Movie,TV-14,"Dramas, International Movies, Sports Movies",India
+Dangal,0.78,Kai Po Che!,Movie,TV-MA,"Dramas, International Movies, Sports Movies",India
+Dangal,0.775,Torbaaz,Movie,TV-MA,"Dramas, International Movies, Sports Movies",India
+Dangal,0.773,Azhar,Movie,TV-14,"Dramas, International Movies, Sports Movies",India
+Dangal,0.773,Lorai: Play to Live,Movie,TV-14,"Dramas, International Movies, Sports Movies",India
+Dangal,0.766,Jada,Movie,TV-14,"Dramas, International Movies, Sports Movies",India
+Dangal,0.766,Soorma,Movie,TV-14,"Dramas, International Movies, Sports Movies",India
+Dangal,0.766,Bathinda Express,Movie,TV-14,"Dramas, International Movies, Sports Movies",India
+Kung Fu Panda,0.734,The Little Prince,Movie,PG,Children & Family Movies,France
+Kung Fu Panda,0.68,Captain Underpants Epic Choice-o-Rama,Movie,TV-Y7,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.68,The Spooky Tale of Captain Underpants Hack-a-ween,Movie,TV-Y7,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.656,Spy Kids: All the Time in the World,Movie,PG,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.656,We Can Be Heroes,Movie,PG,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.656,Shorts,Movie,PG,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.656,Spy Kids,Movie,PG,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.656,Spy Kids 2: The Island of Lost Dreams,Movie,PG,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.656,Spy Kids 3: Game Over,Movie,PG,"Children & Family Movies, Comedies",United States
+Kung Fu Panda,0.654,How the Grinch Stole Christmas,Movie,PG,"Children & Family Movies, Comedies",United States

@@ -1,0 +1,5 @@
+,genre_jaccard,shares_a_genre,same_type,same_rating_group,same_country,coverage
+random baseline,0.0926,0.2428,0.5786,0.4063,0.1642,1.0
+genres only,0.9678,1.0,1.0,0.5753,0.3075,0.2939
+genres + type + rating,0.9675,1.0,1.0,0.8852,0.3584,0.5148
+all attributes,0.9456,0.9998,1.0,0.751,0.6229,0.7123
